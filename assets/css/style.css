@@ -628,6 +628,11 @@
         opacity: 1;
     }
 }
+@media all and (max-width: 767.98px){
+    section.bg h1{
+        transform: scale(0.8) !important;
+    }
+}
 @media all and (max-width: 991.98px){
     section.bg{
         margin-top: 80px;
