@@ -116,7 +116,7 @@ removeWhiteSpace();
 // })
 // Typed
 var typed5 = new Typed('#typed', {
-    strings: ['Senior Front Developer', 'Digital Designer', 'Dachshund Lover'],
+    strings: ['Senior Developer', 'Digital Designer', 'Dachshund Lover'],
     startDelay: 1000,
     backDelay: 3000,
     typeSpeed: 50,
